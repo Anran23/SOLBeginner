@@ -6,10 +6,12 @@ We were tasked to write a code about a token with our selected name and abbrevia
 ## Functionalities 
 ``mint``
 In the mint section of the code, you could input a certain amount of number in which you want mint. 
+
 ``burn``
 In the burn section, you could input a certain amount to burn meaning you will subtract that to the total mint, if the number you are trying to burn is greater than the total number of minted token, it will not go through. 
 
-##Variables
+## Variables
+
 ``Name``
 ``Abbrv``
 ``TotalSupply``
