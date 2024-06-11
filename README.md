@@ -1,4 +1,4 @@
-# SOLBeginner
+# SolidityBeginner
 In this section of the project we were taught on how we could mint and burn solana tokens. 
 
 We were tasked to write a code about a token with our selected name and abbreviation, and through that token we should be able to run it and see the if we could mint a certain amount of tokens, if we could burn that token, and another condition wherein if the total number of burn is greater than the amount of the available mint, the burn will not go through. 
